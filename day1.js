@@ -1,5 +1,4 @@
-//BASIT//
-
+// 1.
 const name = "Basit";
 let age = 15;
 const country = "Nigeria";

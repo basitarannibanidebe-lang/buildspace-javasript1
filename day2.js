@@ -1,3 +1,4 @@
+//1
 function celsiusToFahrenheit(c) {
   if (typeof c !== "number" || isNaN(c)) {
     return "Invalid input";
